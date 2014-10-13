@@ -6,7 +6,7 @@ public class VendingMachine
 		{
 		// TODO Auto-generated method stub
 		
-		//test
+		//test2
 
 		}
 
